@@ -1,10 +1,20 @@
-# Hi there 👋
+# 👋 Hello, I'm [VanQuyet]!
 
-hoang-nqm/hoang-nqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x200)
 
-🌱 I'm currently learning React JS
+## 🚀 About Me
+I'm a software developer specializing in building awesome applications.
 
-📫 How to reach me: [hoang.nqm45@gmail.com](mailto:hoang.nqm45@gmail.com)
+- 🌱 I’m currently learning advanced Android development.
+- 🔭 I’m currently working on a task management application.
+- 🤔 I’m looking for help with integrating AI in mobile apps.
+
+## 📫 How to reach me
+- Email: truongquyet137@gmail.com
+- LinkedIn:([https://linkedin.com/in/username](https://www.linkedin.com/in/van-quyet-087b582b1/))
+
+## ⚡ Fun fact
+I love coding and coffee!
 
 ![Profile views](https://komarev.com/ghpvc/?username=hoang-nqm&color=blue)
 
@@ -21,4 +31,4 @@ hoang-nqm/hoang-nqm is a ✨ special ✨ repository because its `README.md` (thi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Demo GIF
-![Demo GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+!([https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif))
