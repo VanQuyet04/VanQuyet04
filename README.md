@@ -21,14 +21,21 @@ I love coding ,soccer and music!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanQuyet04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+## Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+</p>
 
 
