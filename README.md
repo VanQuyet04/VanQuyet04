@@ -15,10 +15,10 @@ I'm a software developer specializing in building awesome applications.
 ## ⚡ Fun fact
 I love coding and coffee!
 
-![Profile views](https://komarev.com/ghpvc/?username=&color=blue)
+![Profile views](https://komarev.com/ghpvc/?VanQuyet04=&color=blue)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-nqm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanQuyet04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
