@@ -1,5 +1,5 @@
 # 👋 Hello, I'm [VanQuyet]!
-<img src="https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif" alt="Alt text" height="300" width="1200">
+<img src="https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif" alt="Alt text" height="600" width="1400">
 
 ## 🚀 About Me
 I'm a software developer specializing in building awesome applications.
