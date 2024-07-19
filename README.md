@@ -21,7 +21,7 @@ I love coding ,soccer and music!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanQuyet04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
-## Languages and Tools:
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
