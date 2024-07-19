@@ -13,9 +13,9 @@ I'm a software developer specializing in building awesome applications.
 - LinkedIn:([https://linkedin.com/in/username](https://www.linkedin.com/in/van-quyet-087b582b1/))
 
 ## ⚡ Fun fact
-I love coding and coffee!
+I love coding ,soccer and music!
 
-![Profile views](https://komarev.com/ghpvc/?VanQuyet04=&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=VanQuyet04&color=blue)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanQuyet04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
