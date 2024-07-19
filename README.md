@@ -1,6 +1,5 @@
 # 👋 Hello, I'm [VanQuyet]!
-
-![Profile Banner](https://via.placeholder.com/800x200)
+![Alt text](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif)
 
 ## 🚀 About Me
 I'm a software developer specializing in building awesome applications.
@@ -30,5 +29,4 @@ I love coding and coffee!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Demo GIF
-![Alt text](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif)
+
