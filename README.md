@@ -15,7 +15,7 @@ I'm a software developer specializing in building awesome applications.
 ## ⚡ Fun fact
 I love coding and coffee!
 
-![Profile views](https://komarev.com/ghpvc/?username=hoang-nqm&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=&color=blue)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-nqm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
