@@ -31,4 +31,4 @@ I love coding and coffee!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Demo GIF
-!([https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif))
+![Alt text](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif)
