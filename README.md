@@ -32,7 +32,7 @@ I love coding ,soccer and music!
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
