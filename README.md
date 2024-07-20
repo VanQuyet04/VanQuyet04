@@ -10,7 +10,7 @@ I'm a software developer specializing in building awesome applications.
 
 ## 📫 How to reach me
 - Email: truongquyet137@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/van-quyet-087b582b1/)
+- Linkedln: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/van-quyet-087b582b1/)
 
 
 ## ⚡ Fun fact
